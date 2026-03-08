@@ -94,16 +94,16 @@ LibraryManagementSystem
 ### 📊 Dashboard
 <img width="1906" height="895" alt="Screenshot 2026-03-08 125545" src="https://github.com/user-attachments/assets/16618863-6e5e-4acf-b96e-76cb98547102" />
 
-### 👨‍🎓 Add Student
+### 👨‍🎓 Add Students
 <img width="1919" height="903" alt="Screenshot 2026-03-08 125608" src="https://github.com/user-attachments/assets/0429c726-3d7b-41a0-9206-15dc9cedaf88" />
 
 ### 📂 View Student
 <img width="1918" height="900" alt="Screenshot 2026-03-08 125621" src="https://github.com/user-attachments/assets/2b484ad8-5aa0-4d0a-ba25-b5be70d49572" />
 
-### 📖 Add Book
+### 📖 Add Books
 <img width="1907" height="898" alt="Screenshot 2026-03-08 125635" src="https://github.com/user-attachments/assets/dfc85166-ff14-40b6-a3f9-397b1fc2e843" />
 
-### 🗃️ View Book
+### 🗃️ View Books
 <img width="1915" height="900" alt="Screenshot 2026-03-08 125651" src="https://github.com/user-attachments/assets/dad82250-3107-42a9-bf89-faeac08cf7ca" />
 
 ### 📤 Issue Book 
